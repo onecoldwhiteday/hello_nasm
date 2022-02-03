@@ -3,7 +3,11 @@
 To run programm you should: 
 
 `$ nasm -f elf63 -o hello.o hello.s` ; Compile it
+
+
 `$ ld -o hello hello.o` ; Create executable
+
+
 `$ ./hello` ; run
 
 
