@@ -18,4 +18,4 @@ https://cs.lmu.edu/~ray/notes/nasmtutorial/
 
 https://jameshfisher.com/2017/03/10/linux-assembly-hello-world/
 
-Fun fact: NASM was created at the same month I was actually born: October 1995.
+Fun fact: NASM was created at the same month I was actually born: October 1996.
